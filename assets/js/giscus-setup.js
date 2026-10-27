@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "RIROJASS/personal_website",
+    "data-repo": "RIROJASS/raul_rojas_personal_website",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",

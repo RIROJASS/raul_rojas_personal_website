@@ -7,42 +7,42 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/personal_website/";
+      window.location.href = "/raul_rojas_personal_website/";
     },
   },{id: "nav-notes",
           title: "notes",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/personal_website/blog/";
+            window.location.href = "/raul_rojas_personal_website/blog/";
           },
         },{id: "nav-publications",
           title: "publications",
           description: "papers, manuscripts in review, and works in progress.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/personal_website/publications/";
+            window.location.href = "/raul_rojas_personal_website/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
           description: "Research, builds, and ongoing experiments at the seam of brains, cultures, and machines.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/personal_website/projects/";
+            window.location.href = "/raul_rojas_personal_website/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
           description: "open-source work and the public side of what I&#39;m building.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/personal_website/repositories/";
+            window.location.href = "/raul_rojas_personal_website/repositories/";
           },
         },{id: "nav-cv",
           title: "cv",
           description: "Experience, projects, skills, and what I&#39;m working on.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/personal_website/cv/";
+            window.location.href = "/raul_rojas_personal_website/cv/";
           },
         },{id: "post-spacepower-2024-notes-from-orlando",
         
@@ -52,7 +52,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/personal_website/blog/2024/spacepower-notes-from-orlando/";
+            window.location.href = "/raul_rojas_personal_website/blog/2024/spacepower-notes-from-orlando/";
           
         },
       },{id: "post-shpe-national-convention-2024-notes",
@@ -63,7 +63,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/personal_website/blog/2024/shpe-national-convention-notes/";
+            window.location.href = "/raul_rojas_personal_website/blog/2024/shpe-national-convention-notes/";
           
         },
       },{id: "post-innovation-summit-2024-notes",
@@ -74,7 +74,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/personal_website/blog/2024/innovation-summit-notes/";
+            window.location.href = "/raul_rojas_personal_website/blog/2024/innovation-summit-notes/";
           
         },
       },{id: "news-attended-innovation-summit-2024-the-best-session-was-jack-kendall-cto-rain-ai-on-neuromorphic-computing-which-maps-uncomfortably-well-onto-the-bci-work-notes",
@@ -99,77 +99,77 @@ ninja.data = [{
           title: 'ShortKit-ML submitted to IEEE Access',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/personal_website/news/announcement_3/";
+              window.location.href = "/raul_rojas_personal_website/news/announcement_3/";
             },},{id: "projects-ai-enhanced-remote-sensing-llanos-de-moxos",
           title: 'AI-Enhanced Remote Sensing — Llanos de Moxos',
           description: "YOLOv8 object detection on Sentinel + Landsat imagery for pre-Columbian raised-field agriculture in Beni, Bolivia.",
           section: "Projects",handler: () => {
-              window.location.href = "/personal_website/projects/10_project/";
+              window.location.href = "/raul_rojas_personal_website/projects/10_project/";
             },},{id: "projects-pampa-la-cruz-expedition",
           title: 'Pampa La Cruz Expedition',
           description: "Four weeks excavating a Chimú child-sacrifice site at Huanchaco, Peru, under Dr. Gabriel Prieto.",
           section: "Projects",handler: () => {
-              window.location.href = "/personal_website/projects/11_project/";
+              window.location.href = "/raul_rojas_personal_website/projects/11_project/";
             },},{id: "projects-firearchy-nasa-blackstone",
           title: 'FIREARCHY (NASA × Blackstone)',
           description: "NASA × Blackstone Innovation Challenge — applying the Groff Algorithm to satellite imagery for archaeological site discovery.",
           section: "Projects",handler: () => {
-              window.location.href = "/personal_website/projects/12_project/";
+              window.location.href = "/raul_rojas_personal_website/projects/12_project/";
             },},{id: "projects-shpe-corporate-database",
           title: 'SHPE Corporate Database',
           description: "Corporate-partner database for the 2024 SHPE National Convention — distributed to 35,000+ members and attendees across 42 states.",
           section: "Projects",handler: () => {
-              window.location.href = "/personal_website/projects/13_project/";
+              window.location.href = "/raul_rojas_personal_website/projects/13_project/";
             },},{id: "projects-self-nudging-dashboard",
           title: 'Self-Nudging Dashboard',
           description: "Minimalist, offline-ready dashboard that primes you with daily prompts for better habits — HTML/CSS/JS, no backend.",
           section: "Projects",handler: () => {
-              window.location.href = "/personal_website/projects/14_project/";
+              window.location.href = "/raul_rojas_personal_website/projects/14_project/";
             },},{id: "projects-astra",
           title: 'Astra',
           description: "Autonomous AI agent on a Mixture-of-Experts architecture — runs an options-trading thesis end-to-end and doubles as a personal assistant.",
           section: "Projects",handler: () => {
-              window.location.href = "/personal_website/projects/1_project/";
+              window.location.href = "/raul_rojas_personal_website/projects/1_project/";
             },},{id: "projects-shortkit-ml",
           title: 'ShortKit-ML',
           description: "A unified multi-perspective framework for detecting and mitigating shortcut learning in medical imaging embeddings — and beyond. Preprint on medRxiv, in review at IEEE Access.",
           section: "Projects",handler: () => {
-              window.location.href = "/personal_website/projects/2_project/";
+              window.location.href = "/raul_rojas_personal_website/projects/2_project/";
             },},{id: "projects-temporal-decay-graph",
           title: 'Temporal-Decay Graph',
           description: "A novel data structure for real-time BCI/EEG, combining graph topology with exponential decay and lazy pruning.",
           section: "Projects",handler: () => {
-              window.location.href = "/personal_website/projects/3_project/";
+              window.location.href = "/raul_rojas_personal_website/projects/3_project/";
             },},{id: "projects-deep-focus-trainer",
           title: 'Deep Focus Trainer',
           description: "C-based neurofeedback tool integrating Muse 2 EEG with screen activity — ring buffer, hash table, binary heap.",
           section: "Projects",handler: () => {
-              window.location.href = "/personal_website/projects/4_project/";
+              window.location.href = "/raul_rojas_personal_website/projects/4_project/";
             },},{id: "projects-eeg-coherence-analysis-pipeline",
           title: 'EEG Coherence Analysis Pipeline',
           description: "SciPy pipeline for EEG coherence on a neuromarketing dataset from PhysioNet.",
           section: "Projects",handler: () => {
-              window.location.href = "/personal_website/projects/5_project/";
+              window.location.href = "/raul_rojas_personal_website/projects/5_project/";
             },},{id: "projects-lingua-ignota",
           title: 'Lingua Ignota',
           description: "A personal cross-domain pattern language formalizing pattern recognition across faces, markets, and EEG signals as one cognitive process.",
           section: "Projects",handler: () => {
-              window.location.href = "/personal_website/projects/6_project/";
+              window.location.href = "/raul_rojas_personal_website/projects/6_project/";
             },},{id: "projects-funq",
           title: 'funQ',
           description: "Real-time nightlife discovery — recommendation platform with social-media data, sentiment, and geolocation.",
           section: "Projects",handler: () => {
-              window.location.href = "/personal_website/projects/7_project/";
+              window.location.href = "/raul_rojas_personal_website/projects/7_project/";
             },},{id: "projects-art-beyond-sight",
           title: 'Art Beyond Sight',
           description: "Hackathon prototype — accessibility app converting visual art into soundscapes for visually impaired users.",
           section: "Projects",handler: () => {
-              window.location.href = "/personal_website/projects/8_project/";
+              window.location.href = "/raul_rojas_personal_website/projects/8_project/";
             },},{id: "projects-multi-model-ai-artifact-search",
           title: 'Multi-Model AI Artifact Search',
           description: "SigLIP-based classifier for archaeological artifacts — 3,157 images, 87% accuracy, with a 3D UMAP interactive viz.",
           section: "Projects",handler: () => {
-              window.location.href = "/personal_website/projects/9_project/";
+              window.location.href = "/raul_rojas_personal_website/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -196,7 +196,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/personal_website/feed.xml", "_blank");
+          window.open("/raul_rojas_personal_website/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rirojass.github.io/personal_website/sitemap.xml
+Sitemap: https://rirojass.github.io/raul_rojas_personal_website/sitemap.xml
